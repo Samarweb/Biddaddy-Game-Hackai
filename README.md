@@ -1,20 +1,19 @@
-# Biddaddy-Game-Hackai
-# Period Outcome Prediction Bot
+# Biddaddy Game Hackai
 
-This bot predicts whether a period will result in a 'Big' or 'Small' outcome based on historical data.
+This project contains a bot for the Biddaddy game that uses AI to enhance gameplay.
 
 ## Installation
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your_username/period-outcome-prediction-bot.git
+    git clone https://github.com/Samarweb/Biddaddy-Game-Hackai.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd period-outcome-prediction-bot
+    cd Biddaddy-Game-Hackai
     ```
 
 3. **Install Python and Termux packages:**
@@ -34,7 +33,7 @@ This bot predicts whether a period will result in a 'Big' or 'Small' outcome bas
 1. **Navigate to the project directory:**
 
     ```bash
-    cd period-outcome-prediction-bot
+    cd Biddaddy-Game-Hackai
     ```
 
 2. **Run the bot:**
@@ -43,7 +42,7 @@ This bot predicts whether a period will result in a 'Big' or 'Small' outcome bas
     python bot.py
     ```
 
-3. **Enter the period number when prompted, then press 'Predict' to see the outcome prediction.**
+3. **Follow the in-game instructions to utilize the bot's features.**
 
 ## Requirements
 
